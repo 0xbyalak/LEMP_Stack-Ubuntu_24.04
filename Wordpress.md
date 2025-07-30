@@ -92,4 +92,11 @@ systemctl reload nginx
 
 <img width="1819" height="846" alt="image" src="https://github.com/user-attachments/assets/6aa12b9f-5974-4b1d-af77-b7e2821bb5d5" />
 
-> 
+<img width="1819" height="846" alt="image" src="https://github.com/user-attachments/assets/4076b4d1-bddd-4d5d-a427-616cf05101bb" />
+
+<img width="1819" height="851" alt="image" src="https://github.com/user-attachments/assets/88023667-4913-496a-ac7f-6f99404d9ac7" />
+
+<img width="1819" height="848" alt="image" src="https://github.com/user-attachments/assets/349cbe86-4ad5-47fa-a56c-dea1509cabb3" />
+
+<img width="1819" height="854" alt="image" src="https://github.com/user-attachments/assets/8c1b0b8d-8c6f-4c67-9deb-77a94dac0978" />
+
