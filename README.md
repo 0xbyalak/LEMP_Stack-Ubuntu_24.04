@@ -1,4 +1,3 @@
-
 ## LEMP Stack - Web Hosting Platform
 
 Proyek ini adalah bagian dari portofolio aku, dengan tujuan membangun **platform hosting berbasis LEMP Stack** (Linux, Nginx, MySQL/MariaDB, PHP) yang **aman, stabil, dan optimal**. Proyek ini aku kerjakan langsung di **VPS dengan Ubuntu Server 24.04**, sebagai latihan nyata untuk membangun web hosting platform.
@@ -40,7 +39,6 @@ Menyediakan fondasi server hosting yang:
 
 #### 6. **Monitoring & Alerts**
 - Sistem log terpusat via `journald` dan `logrotate`
-- Cron script untuk memantau penggunaan disk dan alert via email atau syslog
 - Dasar penggunaan `htop`, `df`, dan `du` sebagai tool monitoring lokal
 
 #### 7. **Backup & Recovery System**
